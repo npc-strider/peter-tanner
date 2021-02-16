@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+This is my professional account - for now I won't be doing much on this account.
+
+---
+
+To see the many other things I've made (modding related and other small, random things) go to:
+
+**https://github.com/npc-strider**
+
 <!--
 **peter-tanner/peter-tanner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

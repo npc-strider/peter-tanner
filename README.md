@@ -16,6 +16,8 @@ You can also contact me at:
 
 📧 peterr\[dot]00000\[at]gmail\[dot]com
 
+Edit: reading the TOS I can't have another account :/ SO I'm making this org so that people won't take my username.
+
 <!--
 **peter-tanner/peter-tanner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
